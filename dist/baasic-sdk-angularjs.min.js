@@ -1,5 +1,5 @@
 /*
- Baasic AngularJS SDK v2.0.1
+ Baasic AngularJS SDK v2.0.1.1
  (c) 2014-2019 Mono Ltd.  http://baasic.com
  License: MIT
 */

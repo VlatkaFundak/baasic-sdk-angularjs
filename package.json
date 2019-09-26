@@ -1,7 +1,7 @@
 {
 	"name": "baasic-sdk-angularjs",
 	"description": "AngularJS SDK provides core functionality for building web and mobile applications on [Baasic](http://www.baasic.com/).",
-	"version": "2.0.1",
+	"version": "2.0.1.1",
 	"keywords": [
 		"Baasic",
 		"BaaS",
