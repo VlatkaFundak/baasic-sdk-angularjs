@@ -1,6 +1,6 @@
 /*
  Baasic AngularJS SDK v2.0.1
- (c) 2014-2017 Mono Ltd.  http://baasic.com
+ (c) 2014-2019 Mono Ltd.  http://baasic.com
  License: MIT
 */
 (function (angular, undefined) { /* exported module */
